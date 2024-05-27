@@ -46,9 +46,10 @@ div{
 @media all and (min-width: 772px){
 
     div {
-        width: 45%;
+        width: 45vw;
         margin: 0;
         padding: 0;
+        display: inline-block;
     }
 
     img {
@@ -64,7 +65,7 @@ div{
 @media all and (min-width: 998px){
 
     div {
-        width: 30%;
+        width: 30vw;
     }
 }
 
